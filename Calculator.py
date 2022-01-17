@@ -23,5 +23,6 @@ while True:
                 print("Division by zero!")
     else:
         print("Error!")
+        break
 
 print("Thanks for using.  ")
